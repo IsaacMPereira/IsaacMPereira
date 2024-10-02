@@ -1,5 +1,5 @@
-### Olá! Meu nome é Isaac 🚀
-### Estudante de engenharia de software na Universidade de Brasília (UnB)
+### Hi! My name is Isaac 🚀
+### Software engineering studant at University of Brasília (UnB) 🇧🇷
 ### IA & backend & OpenSource & Linux ❤️
 ### "Tudo o que um homem pode imaginar, outros homens poderão fazer" - Júlio Verne
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -9,7 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMPereira&hide_progress=true)
 
-### Tecnologias:
+### Languages: 🇧🇷🇺🇲🇫🇷
+
+### Technologies:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -22,7 +24,7 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-### Ambientes:
+### Environments:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
