@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Isaac 🚀
 ### Estudante de engenharia de software na Universidade de Brasília (UnB)
 ### IA & backend & OpenSource & Linux ❤️
-### "Tudo que um homem pode imaginar, outros homens poderão fazer" - Júlio Verne
+### "Tudo o que um homem pode imaginar, outros homens poderão fazer" - Júlio Verne
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/isaacp.menezes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
