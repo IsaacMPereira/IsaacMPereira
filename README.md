@@ -1,6 +1,6 @@
 ### Hi! My name is Isaac 🚀
 ### Software engineering student at University of Brasília (UnB) 🇧🇷
-### IA & backend & OpenSource & Linux ❤️
+### AI & backend & OpenSource & Linux ❤️
 ### "Tudo o que um homem pode imaginar, outros homens poderão fazer" - Júlio Verne
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/isaacp.menezes/)
