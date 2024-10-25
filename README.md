@@ -8,8 +8,8 @@
 )](https://www.linkedin.com/in/isaac-menezes-pereira-798039277/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMPereira&theme=blue-green)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMPereira&show_icons=true&theme=transparent)
 
 
 ### Languages: 🇧🇷🇺🇲🇫🇷
